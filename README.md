@@ -1,4 +1,4 @@
-# Drugs Assistant - Full Stack Application
+# Drug Discovery AI Assistant 2.0
 **Problem Statement**
 
 The process of drug discovery is time-consuming, expensive, and often inefficient, with a high rate of failure in clinical trials. Traditional methods rely heavily on trial and error, requiring years of research and significant financial investment. Additionally, the complexity of biological systems and the vast chemical space make it challenging to identify promising drug candidates efficiently.
